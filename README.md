@@ -1,1 +1,2 @@
 # Text-analysis
+The project aims to create a Dockerized Python application for analyzing the frequency of words in a given text file. The application utilizes the NLTK (Natural Language Toolkit) library to preprocess the text, tokenize it into words, remove stopwords, and then count the frequency of each word. Additionally, the application excludes words with a frequency of one from the word frequency count and prints the count of words that occur only once in the text.
